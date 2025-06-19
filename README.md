@@ -1,9 +1,3 @@
-# Calculation-of-Frequency-Response
-Расчет АЧХ для фильтров Чебышева, Баттерворта и Гаусса/ Calculation of Frequency Response for Chebyshev, Butterworth, and Gaussian Filters \
-\
-Программа на языке Python разработання для демонстрации работы радиофильтров. / Python language program is developed to demonstrate the operation of radio filters.
-![image](https://github.com/user-attachments/assets/7a37afc0-c09c-4181-9c99-6f25950f13e4)
-
 # 🔬 Расчет АЧХ радиофильтров / Frequency Response Calculator for Radio Filters
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -13,8 +7,7 @@
 
 This is an interactive desktop calculator for analyzing and visualizing the frequency response (AFC) and Voltage Standing Wave Ratio (VSWR) of various radio filters. The project serves as a practical tool for students, radio amateurs, and engineers studying filter theory.
 
-![Скриншот приложения](httpso://github.com/YourUsername/YourRepo/blob/main/screenshot.jpg)
-*Рекомендуется заменить это изображение на ваш скриншот или GIF-анимацию работы программы.*
+![image](https://github.com/user-attachments/assets/7a37afc0-c09c-4181-9c99-6f25950f13e4)
 
 ---
 
