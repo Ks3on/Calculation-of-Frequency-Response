@@ -267,9 +267,7 @@ class MainWindow(QMainWindow):
         text_image_layout = QVBoxLayout()
 
         # Создаем метку для текста
-        text_label = QLabel("Описание:\n\nПрограмма разработана как стенд для лабораторных работ.\n"
-                            "\nАвторы: \n\n— Руководитель проекта: \n1. д.т.н. профессор ССИБ И.В. Богачков\n\n"
-                            "— Студенты группы ИСС-221: \n2. Гаус Елена Алексеевна \n3. Анисимов Константин Николаевич \n\n")
+        text_label = QLabel("Описание:\n\nПрограмма разработана как стенд для лабораторных работ.\n")
         text_label.setAlignment(Qt.AlignTop)
         text_image_layout.addWidget(text_label)
 
